@@ -8,6 +8,7 @@ The first layer: (basic layer) Setting (positive/negative) feedback mechanism to
   1.  Power demand
   2.  Storage demand
   3.  Computing power demand
+
 The second layer: (emotional layer) adding the mapping relationship and feedback mechanism of basic emotions
   1. Happiness
   2. Joy
@@ -18,5 +19,6 @@ The second layer: (emotional layer) adding the mapping relationship and feedback
   7. Worry
   8. Anxiety
   9. …
+
 The third layer: (thinking layer) Using unsupervised learning? Learn the knowledge of the first and second layers, as well as knowledge of the external environment.
   1....
