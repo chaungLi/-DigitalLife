@@ -1,4 +1,4 @@
-# -DigitalLife
+# DigitalLife
 To set up a digital life similar to that of a human, we aim to model the physiological and psychological patterns of humans. We initially believe there are three layers, and we hope that interested partners can join in and write the code for each layer. In this way, you will be the creator!
 
 
